@@ -1,0 +1,9 @@
+nav ul li{
+    display: inline;
+    background-color: antiquewhite;
+    margin-right: 15px;
+}
+footer{
+    text-align: center 10px;
+    margin-top: 20px;
+}
